@@ -1,4 +1,7 @@
-### Hi there 👋
+## Hi there 👋
+### About me ! 
+I am currently a undergraduate student at Newcastle Univeresity, studying digital cultures and media. 
+## Interests 
 
 <!--
 **Graciep123/Graciep123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
