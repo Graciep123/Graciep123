@@ -1,7 +1,9 @@
-## Hi there 👋
+## Hello !!
 ### About me ! 
-I am currently a undergraduate student at Newcastle Univeresity, studying digital cultures and media. 
-## Interests 
+I am currently a undergraduate student at Newcastle Univeresity, studying digital cultures and media. I am in my third and final year and currently creating my dissertation project. This project aims to discuss the problems with gender and identity in raves. I am going to present this research through a narrative driven game created on gamemaker. This will be presented alongside a 3,000 word commentary on a HTML page with the link to the game embedded. My predicted grade is currently a 2:1 however i am aiming to achieve a high first which i think is achievable with commitment and hard work.
+
+I am currently learning javascript and i am aiming to also improve my HTML and CSS skills as i enjoy creating webpages and hoping to learn how to create apps to go along side this. On the side of learning these i want to improve my data visualization skills and scratch up on my excel work too.
+ 
 
 <!--
 **Graciep123/Graciep123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
